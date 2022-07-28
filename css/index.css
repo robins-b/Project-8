@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    font-family: Roboto;
+}
+
+nav{
+    position: absolute;
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 60px;
+}
+
+.nav-items{
+    display: flex;
+    flex: 0.4;
+    justify-content: space-around;
+}
+
+.nav-item{
+    color: rgb(21, 29, 139);
+    font-size: 17px;
+}
+
+.signin-btn{
+    background: linear-gradient(to left , #ff6bb5, #6F00ED);
+    color: #fcfcfc;
+    margin-right: 60px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.intro-section{
+    display: flex;
+}
+
+.vector-img{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+.vector-dot{
+    position: absolute;
+    top: 60%;
+    left: 53%;
+}
+
+.imgs-div img:last-child{
+    position: absolute;
+    top: 12%;
+    right: 60px;
+}
+
+.left-section{
+    flex: 1;
+    position: relative;
+    top: 250px;
+    left: 200px;
+}
+
+.left-section h1{
+    font-size: 85px;
+    color: rgb(58, 64, 146);
+}
+
+.left-section h4{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    width: 300px;
+    color: rgb(116, 118, 151);
+    line-height: 25px;
+    font-size: 16px;
+}
+
+.learn-more-btn{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    padding: 15px 50px;
+    background: linear-gradient(to left , #ff6bb5, #6F00ED);
+    color: #ffffff;
+    font-size: 23px;
+    border: none;
+    border-radius: 30px;
+}
+
+
