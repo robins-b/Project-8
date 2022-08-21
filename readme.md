@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## First Project
+## Project-8
 - This is a Web Design landing page designed using HTML and CSS.
 - [Deployed link](https://robin-project-8.vercel.app/)
 
